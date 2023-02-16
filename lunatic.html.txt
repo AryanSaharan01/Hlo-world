@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mediozoid-Home Page</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="utils.css">
+</head>
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+<body>
+    <header class="navbar overflow">
+        <nav class="flex">
+            <div class="logo">
+                <img src="mediozoid-low-resolution-color-logo (3).png" alt="Mediozoid">
+            </div>
+            <hr>
+            <div class="nav">
+                <ul id="li">
+                    <li><a href="lunatic.html">Home</a></li>
+                    <li><a href="lunaticabout.html">About</a></li>
+                    <li><a href="lunaticcontent.html">Contact Us</a></li>
+                    <li><a href="lunaticcontact.html">Content</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="welcome">
+            <h1>Welcome To Mediozoid</h1>
+            <br>
+            <p>
+            <blockquote>“Good health is not something we can buy. However, it can be an extremely valuable savings
+                account.”</blockquote>
+            <br>
+            <p class="description">Our website offers a great experience to user, anyone can access our great library.
+                The main motive of our website is to provide information to user , user can get information about every
+                diseases he want to along with it's precautions, effects, and many more content also .</p>
+            </p>
+            <div class="container">
+                <div class="box1">
+                    <!-- <img src="psychology-removebg-preview.png" alt="error">
+                    <h2>Phsycological Disorders</h2>
+                    <hr>
+                    <p>Mental Disorders are patterns or Phsycological symtoms that impact multiple areas of life . These
+                        Disorders create distress for the persons experencing the symtons.....<a
+                            href="https://www.verywellmind.com/a-list-of-psychological-disorders-2794776">Learn more</a>
+                    </p>
+                    <hr> -->
+
+                </div>
+                <div class="box2">
+                    <!-- <img src="1234.png" alt="error">
+                    <h2>Common Diseases</h2>
+                    <hr>
+                    <p>Illness or sickness characterised by specific signs or symptoms. Some of the example of common
+                        diseases are headache, stomach acche, vomiting, eyes redness, etc.....<a
+                            href="https://www.verywellmind.com/a-list-of-psychological-disorders-2794776">Learn more</a>
+                    </p>
+                    <hr> -->
+                </div>
+                <div class="box3">
+                    <!-- <img src="1234.png" alt="error">
+                    <h2>All Diseases</h2>
+                    <hr>
+                    <p>disease is a particular abnormal condition that negatively affects the structure or function of
+                        all or part of an organism, and that is not immediately due to any external injury. Diseases are
+                        often known to be medical conditions that are associated with specific signs and symptoms.....<a
+                            href="https://www.verywellmind.com/a-list-of-psychological-disorders-2794776">Learn more</a>
+                    </p>
+                    <hr> -->
+                </div>
+            </div>
+        </div>
+        <!-- <hr> -->
+    </header>
+    <!-- <hr> -->
+    <main>
+        <div class="main">
+            <div class="line"></div>
+            <div class="bx1">
+                <img src="mental-health-2019924_1920.jpg" alt="Mental Health">
+                <div class="b1">
+                    <!-- <img src="psychology-removebg-preview.png" alt="error"> -->
+                    <h2>Phsycological Disorders</h2>
+                    <!-- <hr> -->
+                    <p>Mental Disorders are patterns or Phsycological symtoms that impact multiple areas of life . These
+                        Disorders create distress for the persons experencing the symtons.....<a
+                            href="https://www.verywellmind.com/a-list-of-psychological-disorders-2794776">Learn more</a>
+                    </p>
+                </div>
+            </div>
+            <div class="bx2">
+                <img src="doctor-563429_1920.jpg" alt="Cold">
+                <div class="b2">
+                    <h2>Common Diseases</h2>
+                    <!-- <hr> -->
+                    <p>Illness or sickness characterised by specific signs or symptoms. Some of the example of common
+                        diseases are headache, stomach acche, vomiting, eyes redness, etc.....<a
+                            href="https://www.verywellmind.com/a-list-of-psychological-disorders-2794776">Learn more</a>
+                    </p>
+                </div>
+            </div>
+            <div class="bx3">
+                <img src="cold-1972619_1920.jpg" alt="doctor">
+                <div class="b3">
+                    <h2>All Diseases</h2>
+                    <!-- <hr> -->
+                    <p>Disease is a particular abnormal condition that negatively affects the structure or function of
+                        all or part of an organism, and that is not immediately due to any external injury. Diseases are
+                        often known to be medical conditions that are associated with specific signs and symptoms.....<a
+                            href="https://www.verywellmind.com/a-list-of-psychological-disorders-2794776">Learn more</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer class="foot">
+        <div class="footimage">
+            <img src="mediozoid-low-resolution-color-logo (3).png" alt="Mediozoid">
+        </div>
+        <div class="footdetails">
+            <nav>
+                <ul>
+                    <li><a href="lunatic.html">Home</a></li>
+                    <li><a href="lunaticabout.html">About</a></li>
+                    <li><a href="lunaticcontent.html">Articles</a></li>
+                    <li><a href="lunaticcontact.html">Contact Us</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="rights">
+            <p>&copy; Mediozoid till 2024</p>
+        </div>
+        <div class="contacts">
+            <h4>Contact Details ></h4>
+            <br>
+            <br>
+            <nav>
+                <ul>
+                    <li>XYZ , Street number 3 , New York City , USA</li>
+                    <li>+1 *********</li>
+                    <li>mail@info.com</li>
+                </ul>
+            </nav>
+        </div>
+    </footer>
+</body>
+
+</html>

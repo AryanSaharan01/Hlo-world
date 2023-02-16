@@ -1,0 +1,82 @@
+.navbar {
+    background-color: transparent;
+    height: 156vh;
+    width: 100vw;
+    /* position: sticky; */
+    /* background-image: url(IMG_20230216_132334.jpg); */
+}
+
+#li {
+    display: inline;
+    text-align: center;
+    cursor: pointer;
+    /* text-decoration: none; */
+    padding: 10px;
+}
+/* 
+#li1 {
+    display: inline;
+    text-align: center;
+    cursor: pointer;
+    /* text-decoration: none; */
+    /* padding: 10px; */
+/* } */ 
+
+
+.welcome {
+    background-image: url(3.jpg);
+}
+ 
+/* .bg {
+    background-image: url(8.jpg);
+} */
+
+.overflow {
+    overflow: hidden;
+}
+
+.main {
+    background-image: url(3.jpg);
+    width: 100vw;
+    height: 300vh;
+}
+
+/* .body {
+    background-image: url(8.jpg);
+    width: 100vw;
+    height: 300vh;
+} */
+
+.font {
+    color: white;
+    font-size: 56px;
+    padding-top: 23px;
+    text-align: center;
+    font-style: italic;
+    font-family: PT serif;
+}
+
+.heading {
+    background-image: url(4.jpg);
+    width: 100vw;
+    height: 90vh;
+    padding-top: 125px;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+}
+
+.aboutus h3 {
+    background-image: url(4.jpg);
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    line-height: 6vh;
+}
+
+.navbar1 {
+    width: 100vw;
+    height: 90vh;
+}
